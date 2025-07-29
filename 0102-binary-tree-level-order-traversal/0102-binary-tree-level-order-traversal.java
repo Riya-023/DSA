@@ -18,7 +18,7 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         List<List<Integer>> wrapper = new ArrayList<>();
 
-        if( root == null) return wrapper; //base case
+        if( root == null) return wrapper; //edge case
 
         q.offer(root);
 

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Riya-023/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-023/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Riya-023/DSA/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Riya-023/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Riya-023/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Riya-023/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Riya-023/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Riya-023/DSA/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Riya-023/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Riya-023/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Riya-023/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Riya-023/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

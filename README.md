@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Riya-023/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Riya-023/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Riya-023/DSA/tree/master/0792-binary-search) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Riya-023/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Riya-023/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Riya-023/DSA/tree/master/0205-isomorphic-strings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Riya-023/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Riya-023/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Riya-023/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Riya-023/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Riya-023/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Riya-023/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Riya-023/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Riya-023/DSA/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Riya-023/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Riya-023/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riya-023/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Riya-023/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Riya-023/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Riya-023/DSA/tree/master/0229-majority-element-ii) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Riya-023/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Riya-023/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Riya-023/DSA/tree/master/0229-majority-element-ii) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Riya-023/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## String
 |  |
